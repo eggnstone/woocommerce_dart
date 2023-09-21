@@ -7,8 +7,8 @@ homepage: https://github.com/samarthagarwal/woocommerce_dart
 dependencies:
   flutter:
     sdk: flutter
-  crypto: ^3.0.1
-  http: ^0.13.3
+  crypto: ^3.0.3
+  http: ^1.1.0
 
 dev_dependencies:
   flutter_test:
